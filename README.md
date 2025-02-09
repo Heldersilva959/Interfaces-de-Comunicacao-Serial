@@ -6,11 +6,11 @@ Para consolidar a compreensão dos conceitos sobre o uso de interfaces de comuni
 
 Objetivos:
 
-• Compreender o funcionamento e a aplicação de comunicação serial em microcontroladores.
-• Aplicar os conhecimentos adquiridos sobre UART e I2C na prática.
-• Manipular e controlar LEDs comuns e LEDs endereçáveis WS2812.
-• Fixar o estudo do uso botões de acionamento, interrupções e Debounce.
-• Desenvolver um projeto funcional que combine hardware e software.
+- Compreender o funcionamento e a aplicação de comunicação serial em microcontroladores.
+- Aplicar os conhecimentos adquiridos sobre UART e I2C na prática.
+- Manipular e controlar LEDs comuns e LEDs endereçáveis WS2812.
+- Fixar o estudo do uso botões de acionamento, interrupções e Debounce.
+- Desenvolver um projeto funcional que combine hardware e software.
 
 Materiais utilizados:
 
